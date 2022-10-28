@@ -1,3 +1,7 @@
+# View Output here 
+[click here](https://abiekatkam.github.io/RoomFurnitureHomepage/)
+
+
 # Frontend Mentor - Room Furniture homepage
 
 ![Design preview for the Room homepage coding challenge](./design/desktop-preview.jpg)

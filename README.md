@@ -1,5 +1,5 @@
 # View Output here 
-[click here](https://abiekatkam.github.io/RoomFurnitureHomepage/)
+[CLICK HERE](https://abiekatkam.github.io/RoomFurnitureHomepage/)
 
 
 # Frontend Mentor - Room Furniture homepage
